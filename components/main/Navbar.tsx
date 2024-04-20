@@ -14,7 +14,7 @@ function Navbar() {
                         className="cursor-pointer hover:animate-slowspin"
                     />
                     <span className="font-bold ml-[10px] hidden md:block text-gray-300">
-                        WebChain Dev
+                        Tian Hao Zhang
                     </span>
                 </a>
                 <div className="w-[500px] h-full flex flex-row items-center justify-between md:mr-20">

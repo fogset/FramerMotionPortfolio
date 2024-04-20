@@ -35,9 +35,9 @@ function HeroContent() {
                     variants={slideInFromLeft(0.8)}
                     className="text-lg text-gray-400 my-5 max-w-[600px]"
                 >
-                    I&apos;m a Full Stack Software Engineer with experience in Website, Mobile, and
-                    Software development. Check out my projects and skills
-                    <h1 className="Welcome-text text-[13px]">Fullstack Developer Portfolio</h1>
+                    I&apos;m a Front End Software Engineer with experience in Website and Software
+                    development. Check out my projects and skills
+                    <h1 className="Welcome-text text-[13px]">FrontEnd Developer Portfolio</h1>
                 </motion.p>
                 <motion.a
                     variants={slideInFromLeft(1)}
